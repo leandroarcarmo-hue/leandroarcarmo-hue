@@ -11,6 +11,17 @@
 
 ---
 
+## 🎓 Formação Acadêmica
+- 🎓 **Técnico em Desenvolvimento de Sistemas** *(Em andamento)*
+- ⚙️ **Engenharia Mecânica** *(Em andamento)*
+- 📊 **MBA em Gerenciamento de Projetos** — FGV
+- 🦺 **Pós-Graduação em Engenharia de Segurança do Trabalho** - Unicsul
+- 🏗️ **Engenharia Civil** — Uninove
+- ⚖️ **Direito** — Uninove
+- 📈 **Tecnologia em Processos Gerenciais** - Fatec de Mauá
+
+---
+
 ## 🛠️ Tecnologias que estudo
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54">
